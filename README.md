@@ -15,3 +15,5 @@ https://www.bilibili.com/video/BV1VtiueAEcK/?spm_id_from=333.999.0.0&vd_source=a
 
 ![4292c69c6455ec0243c205edc728475](https://github.com/user-attachments/assets/36f55c76-fea2-476e-906f-5be6fc68b310)
 
+二、赛题分析
+![Uploading image.png…]()
