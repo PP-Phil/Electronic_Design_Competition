@@ -16,4 +16,7 @@ https://www.bilibili.com/video/BV1VtiueAEcK/?spm_id_from=333.999.0.0&vd_source=a
 ![4292c69c6455ec0243c205edc728475](https://github.com/user-attachments/assets/36f55c76-fea2-476e-906f-5be6fc68b310)
 
 二、赛题分析
+![image](https://github.com/user-attachments/assets/db31802e-9d39-4835-a166-e9b23019099e)
+![image](https://github.com/user-attachments/assets/6b518bf3-7306-4c4a-bf92-d3e51214637f)
 ![Uploading image.png…]()
+
